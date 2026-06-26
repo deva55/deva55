@@ -1,7 +1,7 @@
 <h1 align="center">Hey there, I'm Dev Anand Jayakumar 👋</h1>
 
 <p align="center">
-  <b>Senior Data Analyst &nbsp;·&nbsp; Business Analyst &nbsp;·&nbsp; AI/ML Enthusiast</b>
+  <b>Data Analyst &nbsp;·&nbsp; Business Analyst &nbsp;·&nbsp; AI/ML Enthusiast</b>
 </p>
 
 <p align="center">
